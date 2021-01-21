@@ -1,0 +1,8 @@
+pip install pymongo
+pip3 install pymongo
+
+insert
+find
+update
+delete
+delete collection
